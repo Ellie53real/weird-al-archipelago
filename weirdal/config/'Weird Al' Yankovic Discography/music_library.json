@@ -1,0 +1,1071 @@
+{
+  "artist": "'Weird Al' Yankovic",
+  "bonus_locations": [
+    "First Listen",
+    "Encore"
+  ],
+  "albums": [
+    {
+      "name": "'Weird Al' Yankovic",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Ricky",
+          "location": "Ricky",
+          "type": "normal"
+        },
+        {
+          "title": "Gotta Boogie",
+          "location": "Gotta Boogie",
+          "type": "normal"
+        },
+        {
+          "title": "I Love Rocky Road",
+          "location": "I Love Rocky Road",
+          "type": "normal"
+        },
+        {
+          "title": "Buckingham Blues",
+          "location": "Buckingham Blues",
+          "type": "normal"
+        },
+        {
+          "title": "Happy Birthday",
+          "location": "Happy Birthday",
+          "type": "normal"
+        },
+        {
+          "title": "Stop Draggin' My Car Around",
+          "location": "Stop Draggin' My Car Around",
+          "type": "normal"
+        },
+        {
+          "title": "My Bologna",
+          "location": "My Bologna",
+          "type": "normal"
+        },
+        {
+          "title": "The Check's in the Mail",
+          "location": "The Check's in the Mail",
+          "type": "normal"
+        },
+        {
+          "title": "Another One Rides the Bus",
+          "location": "Another One Rides the Bus",
+          "type": "normal"
+        },
+        {
+          "title": "I'll Be Mellow When I'm Dead",
+          "location": "I'll Be Mellow When I'm Dead",
+          "type": "normal"
+        },
+        {
+          "title": "Such a Groovy Guy",
+          "location": "Such a Groovy Guy",
+          "type": "normal"
+        },
+        {
+          "title": "Mr. Frump in the Iron Lung",
+          "location": "Mr. Frump in the Iron Lung",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "'Weird Al' Yankovic in 3-D",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Eat It",
+          "location": "Eat It",
+          "type": "normal"
+        },
+        {
+          "title": "Midnight Star",
+          "location": "Midnight Star",
+          "type": "normal"
+        },
+        {
+          "title": "The Brady Bunch",
+          "location": "The Brady Bunch",
+          "type": "normal"
+        },
+        {
+          "title": "Buy Me a Condo",
+          "location": "Buy Me a Condo",
+          "type": "normal"
+        },
+        {
+          "title": "I Lost on Jeopardy",
+          "location": "I Lost on Jeopardy",
+          "type": "normal"
+        },
+        {
+          "title": "Polkas on 45",
+          "location": "Polkas on 45",
+          "type": "normal"
+        },
+        {
+          "title": "Mr. Popeil",
+          "location": "Mr. Popeil",
+          "type": "normal"
+        },
+        {
+          "title": "King of Suede",
+          "location": "King of Suede",
+          "type": "normal"
+        },
+        {
+          "title": "That Boy Could Dance",
+          "location": "That Boy Could Dance",
+          "type": "normal"
+        },
+        {
+          "title": "Theme from Rocky XIII (The Rye or the Kaiser)",
+          "location": "Theme from Rocky XIII (The Rye or the Kaiser)",
+          "type": "normal"
+        },
+        {
+          "title": "Nature Trail to Hell",
+          "location": "Nature Trail to Hell",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Dare to Be Stupid",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Like a Surgeon",
+          "location": "Like a Surgeon",
+          "type": "normal"
+        },
+        {
+          "title": "Dare to Be Stupid",
+          "location": "Dare to Be Stupid",
+          "type": "normal"
+        },
+        {
+          "title": "I Want a New Duck",
+          "location": "I Want a New Duck",
+          "type": "normal"
+        },
+        {
+          "title": "One More Minute",
+          "location": "One More Minute",
+          "type": "normal"
+        },
+        {
+          "title": "Yoda",
+          "location": "Yoda",
+          "type": "normal"
+        },
+        {
+          "title": "George of the Jungle",
+          "location": "George of the Jungle",
+          "type": "normal"
+        },
+        {
+          "title": "Slime Creatures from Outer Space",
+          "location": "Slime Creatures from Outer Space",
+          "type": "normal"
+        },
+        {
+          "title": "Girls Just Want to Have Lunch",
+          "location": "Girls Just Want to Have Lunch",
+          "type": "normal"
+        },
+        {
+          "title": "This Is the Life",
+          "location": "This Is the Life",
+          "type": "normal"
+        },
+        {
+          "title": "Cable TV",
+          "location": "Cable TV",
+          "type": "normal"
+        },
+        {
+          "title": "Hooked on Polkas",
+          "location": "Hooked on Polkas",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Polka Party!",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Living with a Hernia",
+          "location": "Living with a Hernia",
+          "type": "normal"
+        },
+        {
+          "title": "Dog Eat Dog",
+          "location": "Dog Eat Dog",
+          "type": "normal"
+        },
+        {
+          "title": "Addicted to Spuds",
+          "location": "Addicted to Spuds",
+          "type": "normal"
+        },
+        {
+          "title": "One of Those Days",
+          "location": "One of Those Days",
+          "type": "normal"
+        },
+        {
+          "title": "Polka Party!",
+          "location": "Polka Party!",
+          "type": "normal"
+        },
+        {
+          "title": "Here's Johnny",
+          "location": "Here's Johnny",
+          "type": "normal"
+        },
+        {
+          "title": "Don't Wear Those Shoes",
+          "location": "Don't Wear Those Shoes",
+          "type": "normal"
+        },
+        {
+          "title": "Toothless People",
+          "location": "Toothless People",
+          "type": "normal"
+        },
+        {
+          "title": "Good Enough for Now",
+          "location": "Good Enough for Now",
+          "type": "normal"
+        },
+        {
+          "title": "Christmas at Ground Zero",
+          "location": "Christmas at Ground Zero",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Even Worse",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Fat",
+          "location": "Fat",
+          "type": "normal"
+        },
+        {
+          "title": "Stuck in a Closet with Vanna White",
+          "location": "Stuck in a Closet with Vanna White",
+          "type": "normal"
+        },
+        {
+          "title": "(This Song's Just) Six Words Long",
+          "location": "(This Song's Just) Six Words Long",
+          "type": "normal"
+        },
+        {
+          "title": "You Make Me",
+          "location": "You Make Me",
+          "type": "normal"
+        },
+        {
+          "title": "I Think I'm a Clone Now",
+          "location": "I Think I'm a Clone Now",
+          "type": "normal"
+        },
+        {
+          "title": "Lasagna",
+          "location": "Lasagna",
+          "type": "normal"
+        },
+        {
+          "title": "Melanie",
+          "location": "Melanie",
+          "type": "normal"
+        },
+        {
+          "title": "Alimony",
+          "location": "Alimony",
+          "type": "normal"
+        },
+        {
+          "title": "Velvet Elvis",
+          "location": "Velvet Elvis",
+          "type": "normal"
+        },
+        {
+          "title": "Twister",
+          "location": "Twister",
+          "type": "normal"
+        },
+        {
+          "title": "Good Old Days",
+          "location": "Good Old Days",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "UHF: Original Motion Picture Soundtrack and Other Stuff",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Money for Nothing/Beverly Hillbillies",
+          "location": "Money for Nothing/Beverly Hillbillies",
+          "type": "normal"
+        },
+        {
+          "title": "Gandhi II",
+          "location": "Gandhi II",
+          "type": "normal"
+        },
+        {
+          "title": "Attack of the Radioactive Hamsters from a Planet Near Mars",
+          "location": "Attack of the Radioactive Hamsters from a Planet Near Mars",
+          "type": "normal"
+        },
+        {
+          "title": "Isle Thing",
+          "location": "Isle Thing",
+          "type": "normal"
+        },
+        {
+          "title": "The Hot Rocks Polka",
+          "location": "The Hot Rocks Polka",
+          "type": "normal"
+        },
+        {
+          "title": "UHF",
+          "location": "UHF",
+          "type": "normal"
+        },
+        {
+          "title": "Let Me Be Your Hog",
+          "location": "Let Me Be Your Hog",
+          "type": "normal"
+        },
+        {
+          "title": "She Drives Like Crazy",
+          "location": "She Drives Like Crazy",
+          "type": "normal"
+        },
+        {
+          "title": "Generic Blues",
+          "location": "Generic Blues",
+          "type": "normal"
+        },
+        {
+          "title": "Spatula City",
+          "location": "Spatula City",
+          "type": "normal"
+        },
+        {
+          "title": "Fun Zone",
+          "location": "Fun Zone",
+          "type": "normal"
+        },
+        {
+          "title": "Spam",
+          "location": "Spam",
+          "type": "normal"
+        },
+        {
+          "title": "The Biggest Ball of Twine in Minnesota",
+          "location": "The Biggest Ball of Twine in Minnesota",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Off the Deep End",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Smells Like Nirvana",
+          "location": "Smells Like Nirvana",
+          "type": "normal"
+        },
+        {
+          "title": "Trigger Happy",
+          "location": "Trigger Happy",
+          "type": "normal"
+        },
+        {
+          "title": "I Can't Watch This",
+          "location": "I Can't Watch This",
+          "type": "normal"
+        },
+        {
+          "title": "Polka Your Eyes Out",
+          "location": "Polka Your Eyes Out",
+          "type": "normal"
+        },
+        {
+          "title": "I Was Only Kidding",
+          "location": "I Was Only Kidding",
+          "type": "normal"
+        },
+        {
+          "title": "The White Stuff",
+          "location": "The White Stuff",
+          "type": "normal"
+        },
+        {
+          "title": "When I Was Your Age",
+          "location": "When I Was Your Age",
+          "type": "normal"
+        },
+        {
+          "title": "Taco Grande",
+          "location": "Taco Grande",
+          "type": "normal"
+        },
+        {
+          "title": "Airline Amy",
+          "location": "Airline Amy",
+          "type": "normal"
+        },
+        {
+          "title": "The Plumbing Song",
+          "location": "The Plumbing Song",
+          "type": "normal"
+        },
+        {
+          "title": "You Don't Love Me Anymore",
+          "location": "You Don't Love Me Anymore",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Alapalooza",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Jurassic Park",
+          "location": "Jurassic Park",
+          "type": "normal"
+        },
+        {
+          "title": "Young, Dumb & Ugly",
+          "location": "Young, Dumb & Ugly",
+          "type": "normal"
+        },
+        {
+          "title": "Bedrock Anthem",
+          "location": "Bedrock Anthem",
+          "type": "normal"
+        },
+        {
+          "title": "Frank's 2000″ TV",
+          "location": "Frank's 2000″ TV",
+          "type": "normal"
+        },
+        {
+          "title": "Achy Breaky Song",
+          "location": "Achy Breaky Song",
+          "type": "normal"
+        },
+        {
+          "title": "Traffic Jam",
+          "location": "Traffic Jam",
+          "type": "normal"
+        },
+        {
+          "title": "Talk Soup",
+          "location": "Talk Soup",
+          "type": "normal"
+        },
+        {
+          "title": "Livin' in the Fridge",
+          "location": "Livin' in the Fridge",
+          "type": "normal"
+        },
+        {
+          "title": "She Never Told Me She Was a Mime",
+          "location": "She Never Told Me She Was a Mime",
+          "type": "normal"
+        },
+        {
+          "title": "Harvey the Wonder Hamster",
+          "location": "Harvey the Wonder Hamster",
+          "type": "normal"
+        },
+        {
+          "title": "Waffle King",
+          "location": "Waffle King",
+          "type": "normal"
+        },
+        {
+          "title": "Bohemian Polka",
+          "location": "Bohemian Polka",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Bad Hair Day",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Amish Paradise",
+          "location": "Amish Paradise",
+          "type": "normal"
+        },
+        {
+          "title": "Everything You Know is Wrong",
+          "location": "Everything You Know is Wrong",
+          "type": "normal"
+        },
+        {
+          "title": "Cavity Search",
+          "location": "Cavity Search",
+          "type": "normal"
+        },
+        {
+          "title": "Callin' In Sick",
+          "location": "Callin' In Sick",
+          "type": "normal"
+        },
+        {
+          "title": "The Alternative Polka",
+          "location": "The Alternative Polka",
+          "type": "normal"
+        },
+        {
+          "title": "Since You've Been Gone",
+          "location": "Since You've Been Gone",
+          "type": "normal"
+        },
+        {
+          "title": "Gump",
+          "location": "Gump",
+          "type": "normal"
+        },
+        {
+          "title": "I'm So Sick of You",
+          "location": "I'm So Sick of You",
+          "type": "normal"
+        },
+        {
+          "title": "Syndicated Inc.",
+          "location": "Syndicated Inc.",
+          "type": "normal"
+        },
+        {
+          "title": "I Remember Larry",
+          "location": "I Remember Larry",
+          "type": "normal"
+        },
+        {
+          "title": "Phony Calls",
+          "location": "Phony Calls",
+          "type": "normal"
+        },
+        {
+          "title": "The Night Santa Went Crazy",
+          "location": "The Night Santa Went Crazy",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Running With Scissors",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "The Saga Begins",
+          "location": "The Saga Begins",
+          "type": "normal"
+        },
+        {
+          "title": "My Baby's in Love with Eddie Vedder",
+          "location": "My Baby's in Love with Eddie Vedder",
+          "type": "normal"
+        },
+        {
+          "title": "Pretty Fly for a Rabbi",
+          "location": "Pretty Fly for a Rabbi",
+          "type": "normal"
+        },
+        {
+          "title": "The Weird Al Show Theme",
+          "location": "The Weird Al Show Theme",
+          "type": "normal"
+        },
+        {
+          "title": "Jerry Springer",
+          "location": "Jerry Springer",
+          "type": "normal"
+        },
+        {
+          "title": "Germs",
+          "location": "Germs",
+          "type": "normal"
+        },
+        {
+          "title": "Polka Power!",
+          "location": "Polka Power!",
+          "type": "normal"
+        },
+        {
+          "title": "Your Horoscope for Today",
+          "location": "Your Horoscope for Today",
+          "type": "normal"
+        },
+        {
+          "title": "It's All About the Pentiums",
+          "location": "It's All About the Pentiums",
+          "type": "normal"
+        },
+        {
+          "title": "Truck Drivin' Song",
+          "location": "Truck Drivin' Song",
+          "type": "normal"
+        },
+        {
+          "title": "Grapefruit Diet",
+          "location": "Grapefruit Diet",
+          "type": "normal"
+        },
+        {
+          "title": "Albuquerque",
+          "location": "Albuquerque",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Poodle Hat",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Couch Potato",
+          "location": "Couch Potato",
+          "type": "normal"
+        },
+        {
+          "title": "Hardware Store",
+          "location": "Hardware Store",
+          "type": "normal"
+        },
+        {
+          "title": "Trash Day",
+          "location": "Trash Day",
+          "type": "normal"
+        },
+        {
+          "title": "Party at the Leper Colony",
+          "location": "Party at the Leper Colony",
+          "type": "normal"
+        },
+        {
+          "title": "Angry White Boy Polka",
+          "location": "Angry White Boy Polka",
+          "type": "normal"
+        },
+        {
+          "title": "Wanna B Ur Lovr",
+          "location": "Wanna B Ur Lovr",
+          "type": "normal"
+        },
+        {
+          "title": "A Complicated Song",
+          "location": "A Complicated Song",
+          "type": "normal"
+        },
+        {
+          "title": "Why Does This Always Happen to Me?",
+          "location": "Why Does This Always Happen to Me?",
+          "type": "normal"
+        },
+        {
+          "title": "Ode to a Superhero",
+          "location": "Ode to a Superhero",
+          "type": "normal"
+        },
+        {
+          "title": "Bob",
+          "location": "Bob",
+          "type": "normal"
+        },
+        {
+          "title": "eBay",
+          "location": "eBay",
+          "type": "normal"
+        },
+        {
+          "title": "Genius in France",
+          "location": "Genius in France",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Straight Outta Lynwood",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "White & Nerdy",
+          "location": "White & Nerdy",
+          "type": "normal"
+        },
+        {
+          "title": "Pancreas",
+          "location": "Pancreas",
+          "type": "normal"
+        },
+        {
+          "title": "Canadian Idiot",
+          "location": "Canadian Idiot",
+          "type": "normal"
+        },
+        {
+          "title": "I'll Sue Ya",
+          "location": "I'll Sue Ya",
+          "type": "normal"
+        },
+        {
+          "title": "Polkarama!",
+          "location": "Polkarama!",
+          "type": "normal"
+        },
+        {
+          "title": "Virus Alert",
+          "location": "Virus Alert",
+          "type": "normal"
+        },
+        {
+          "title": "Confessions Part III",
+          "location": "Confessions Part III",
+          "type": "normal"
+        },
+        {
+          "title": "Weasel Stomping Day",
+          "location": "Weasel Stomping Day",
+          "type": "normal"
+        },
+        {
+          "title": "Close but No Cigar",
+          "location": "Close but No Cigar",
+          "type": "normal"
+        },
+        {
+          "title": "Do I Creep You Out",
+          "location": "Do I Creep You Out",
+          "type": "normal"
+        },
+        {
+          "title": "Trapped in the Drive-Thru",
+          "location": "Trapped in the Drive-Thru",
+          "type": "normal"
+        },
+        {
+          "title": "Don't Download This Song",
+          "location": "Don't Download This Song",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Alpocalypse",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Perform This Way",
+          "location": "Perform This Way",
+          "type": "normal"
+        },
+        {
+          "title": "CNR",
+          "location": "CNR",
+          "type": "normal"
+        },
+        {
+          "title": "TMZ",
+          "location": "TMZ",
+          "type": "normal"
+        },
+        {
+          "title": "Skipper Dan",
+          "location": "Skipper Dan",
+          "type": "normal"
+        },
+        {
+          "title": "Polka Face",
+          "location": "Polka Face",
+          "type": "normal"
+        },
+        {
+          "title": "Craigslist",
+          "location": "Craigslist",
+          "type": "normal"
+        },
+        {
+          "title": "Party in the CIA",
+          "location": "Party in the CIA",
+          "type": "normal"
+        },
+        {
+          "title": "Ringtone",
+          "location": "Ringtone",
+          "type": "normal"
+        },
+        {
+          "title": "Another Tattoo",
+          "location": "Another Tattoo",
+          "type": "normal"
+        },
+        {
+          "title": "If That Isn't Love",
+          "location": "If That Isn't Love",
+          "type": "normal"
+        },
+        {
+          "title": "Whatever You Like",
+          "location": "Whatever You Like",
+          "type": "normal"
+        },
+        {
+          "title": "Stop Forwarding That Crap to Me",
+          "location": "Stop Forwarding That Crap to Me",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Mandatory Fun",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Handy",
+          "location": "Handy",
+          "type": "normal"
+        },
+        {
+          "title": "Lame Claim to Fame",
+          "location": "Lame Claim to Fame",
+          "type": "normal"
+        },
+        {
+          "title": "Foil",
+          "location": "Foil",
+          "type": "normal"
+        },
+        {
+          "title": "Sports Song",
+          "location": "Sports Song",
+          "type": "normal"
+        },
+        {
+          "title": "Word Crimes",
+          "location": "Word Crimes",
+          "type": "normal"
+        },
+        {
+          "title": "My Own Eyes",
+          "location": "My Own Eyes",
+          "type": "normal"
+        },
+        {
+          "title": "NOW That's What I Call Polka!",
+          "location": "NOW That's What I Call Polka!",
+          "type": "normal"
+        },
+        {
+          "title": "Mission Statement",
+          "location": "Mission Statement",
+          "type": "normal"
+        },
+        {
+          "title": "Inactive",
+          "location": "Inactive",
+          "type": "normal"
+        },
+        {
+          "title": "First World Problems",
+          "location": "First World Problems",
+          "type": "normal"
+        },
+        {
+          "title": "Tacky",
+          "location": "Tacky",
+          "type": "normal"
+        },
+        {
+          "title": "Jackson Park Express",
+          "location": "Jackson Park Express",
+          "type": "normal"
+        }
+      ]
+    },
+    {
+      "name": "Medium Rarities",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "Take Me Down",
+          "location": "Take Me Down",
+          "type": "normal"
+        },
+        {
+          "title": "My Bologna (Demo)",
+          "location": "My Bologna (Demo)",
+          "type": "alt"
+        },
+        {
+          "title": "Yoda (Demo)",
+          "location": "Yoda (Demo)",
+          "type": "alt"
+        },
+        {
+          "title": "Dr. Demento Jingle",
+          "location": "Dr. Demento Jingle",
+          "type": "normal"
+        },
+        {
+          "title": "Pac-Man",
+          "location": "Pac-Man",
+          "type": "normal"
+        },
+        {
+          "title": "Dare to Be Stupid (Instrumental)",
+          "location": "Dare to Be Stupid (Instrumental)",
+          "type": "alt"
+        },
+        {
+          "title": "Jurashiku Park",
+          "location": "Jurashiku Park",
+          "type": "alt"
+        },
+        {
+          "title": "Headline News",
+          "location": "Headline News",
+          "type": "normal"
+        },
+        {
+          "title": "Since You've Been Gone (Karaoke)",
+          "location": "Since You've Been Gone (Karaoke)",
+          "type": "alt"
+        },
+        {
+          "title": "The Night Santa Went Crazy (Extra Gory Version)",
+          "location": "The Night Santa Went Crazy (Extra Gory Version)",
+          "type": "alt"
+        },
+        {
+          "title": "Spy Hard",
+          "location": "Spy Hard",
+          "type": "normal"
+        },
+        {
+          "title": "Lousy Haircut",
+          "location": "Lousy Haircut",
+          "type": "normal"
+        },
+        {
+          "title": "Homer and Marge",
+          "location": "Homer and Marge",
+          "type": "normal"
+        },
+        {
+          "title": "The Brain Song",
+          "location": "The Brain Song",
+          "type": "normal"
+        },
+        {
+          "title": "30 Rock Theme Parody",
+          "location": "30 Rock Theme Parody",
+          "type": "normal"
+        },
+        {
+          "title": "Super Duper Party Pony",
+          "location": "Super Duper Party Pony",
+          "type": "normal"
+        },
+        {
+          "title": "Sir Isaac Newton vs. Bill Nye",
+          "location": "Sir Isaac Newton vs. Bill Nye",
+          "type": "normal"
+        },
+        {
+          "title": "Let the Pun Fit the Crime",
+          "location": "Let the Pun Fit the Crime",
+          "type": "normal"
+        },
+        {
+          "title": "Hey, Hey, We're the Monks",
+          "location": "Hey, Hey, We're the Monks",
+          "type": "normal"
+        },
+        {
+          "title": "Comedy Bang! Bang! Theme",
+          "location": "Comedy Bang! Bang! Theme",
+          "type": "normal"
+        },
+        {
+          "title": "It's My World (And We're All Living In It)",
+          "location": "It's My World (And We're All Living In It)",
+          "type": "normal"
+        },
+        {
+          "title": "Beat on the Brat",
+          "location": "Beat on the Brat",
+          "type": "normal"
+        },
+        {
+          "title": "Happy Birthday (New Version)",
+          "location": "Happy Birthday (New Version)",
+          "type": "alt"
+        }
+      ]
+    },
+    {
+      "name": "Singles",
+      "type": "standard",
+      "full_album_unlock": true,
+      "songs": [
+        {
+          "title": "You're Pitiful",
+          "location": "You're Pitiful",
+          "type": "normal"
+        },
+        {
+          "title": "The Hamilton Polka",
+          "location": "The Hamilton Polka",
+          "type": "normal"
+        },
+        {
+          "title": "Now You Know",
+          "location": "Now You Know",
+          "type": "normal"
+        },
+        {
+          "title": "Polkamania!",
+          "location": "Polkamania!",
+          "type": "normal"
+        }
+      ]
+    }
+  ]
+}

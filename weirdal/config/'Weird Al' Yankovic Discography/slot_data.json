@@ -1,0 +1,72 @@
+{
+  "slot_data_keys": {
+    "include_debut": {
+      "type": "album",
+      "display_name": ""Weird Al" Yankovic"
+    },
+    "include_in_3d": {
+      "type": "album",
+      "display_name": "in 3-D"
+    },
+    "include_dare_to_be_stupid": {
+      "type": "album",
+      "display_name": "Dare to Be Stupid"
+    },
+    "include_polka_party": {
+      "type": "album",
+      "display_name": "Polka Party!"
+    },
+    "include_even_worse": {
+      "type": "album",
+      "display_name": "Even Worse"
+    },
+    "include_uhf": {
+      "type": "album",
+      "display_name": "UHF"
+    },
+    "include_off_the_deep_end": {
+      "type": "album",
+      "display_name": "Off the Deep End"
+    },
+    "include_alapalooza": {
+      "type": "album",
+      "display_name": "Alapalooza"
+    },
+    "include_bad_hair_day": {
+      "type": "album",
+      "display_name": "Bad Hair Day"
+    },
+    "include_running_with_scissors": {
+      "type": "album",
+      "display_name": "Running With Scissors"
+    },
+    "include_poodle_hat": {
+      "type": "album",
+      "display_name": "Poodle Hat"
+    },
+    "include_straight_outta_lynwood": {
+      "type": "album",
+      "display_name": "Straight Outta Lynwood"
+    },
+    "include_alpocalypse": {
+      "type": "album",
+      "display_name": "Alpocalypse"
+    },
+    "include_mandatory_fun": {
+      "type": "album",
+      "display_name": "Mandatory Fun"
+    },
+    "include_medium_rarities": {
+      "type": "album",
+      "display_name": "Medium Rarities"
+    },
+    "include_singles": {
+      "type": "album",
+      "display_name": "Singles"
+    },
+    "include_alt_recordings": {
+      "type": "song_option",
+      "display_name": "Alternate Recordings"
+    }
+  }
+}
