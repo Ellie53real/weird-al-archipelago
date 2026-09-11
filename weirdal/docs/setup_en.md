@@ -43,7 +43,7 @@ The Music Client uses configuration files stored in your operating system's appl
 |------------------------------------|--------------------------------------------------------------------------|
 | `albumFolders.json`                | Maps album names to folder paths where your local music files are stored |
 | `albumOrder.json`                  | Controls the display order of albums in the music library                |
-| `locations.json`                   | Defines all available songs and their relationships                      |
+| `music_library.json`                   | Defines all available songs and their relationships                      |
 | `slot_data.json`                   | Describes what is unlocked or available in randomizer mode               |
 | `album_metadata.json` *(optional)* | Provides metadata such as album type and year                            |
 
