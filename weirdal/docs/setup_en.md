@@ -32,7 +32,7 @@ If your room is hosted on [archipelago.gg](https://archipelago.gg), click your n
 Before starting with these steps, head over to the configuration section to find out where to put the configuration files you've downloaded along with this APWorld.
 
 1. Open the Archipelago Music Client (standalone application)
-2. Enter all the details into the client application's window, including the game name, which in this case is `"Weird Al" Yankovic Discography`
+2. Enter all the details into the client application's window, including the game name, which in this case is `'Weird Al' Yankovic Discography`
 3. Hit **Connect** and enjoy.
 
 ## Configuration
