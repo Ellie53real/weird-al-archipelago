@@ -13,5 +13,3 @@ Extra YAML options also exist for enabling the inclusion of *Medium Rarities* (t
 ## What is the goal of "Weird Al" Yankovic Discography?
 
 The goal is to listen to all songs in all enabled albums. The client used for this implementation keeps track of your progress internally, and the goal is reached upon listening to all albums completely.
-
-This APWorld is built off of bennydreamly's [Taylor Swift Discography](https://github.com/benny-dreamly/Archipelago/releases/tag/ts-1.2.1) APWorld, used with their explicit permission.
