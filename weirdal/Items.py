@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 #
 # Copyright (c) 2026 Benny Dreamly.
+# Copyright (c) 2026 Ellie53
 
 from BaseClasses import Item, ItemClassification
 
