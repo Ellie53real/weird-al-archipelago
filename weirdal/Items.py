@@ -99,7 +99,6 @@ ALBUM_OPTIONS = {
     "Mandatory Fun":              "include_mandatory_fun",
     "Medium Rarities": "include_medium_rarities",
     "Singles": "include_singles",
-    "Alternate Recordings": "include_alt_recordings",
 }
 
 FILLER_NAMES = [
