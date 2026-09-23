@@ -131,10 +131,11 @@ LOCATION_TABLE: dict[str, LocationData] = {
     "Achy Breaky Song":       LocationData("Alapalooza"),
     "Traffic Jam":                     LocationData("Alapalooza"),
     "Talk Soup":                 LocationData("Alapalooza"),
+    "Livin' in the Fridge":                 LocationData("Alapalooza"),
     "She Never Told Me She Was a Mime":                        LocationData("Alapalooza"),
     "Harvey the Wonder Hamster":                   LocationData("Alapalooza"),
     "Waffle King":             LocationData("Alapalooza"),
-    "Bohemian Rhapsody":                        LocationData("Alapalooza"),
+    "Bohemian Polka":                        LocationData("Alapalooza"),
 
     # Bad Hair Day
     "Amish Paradise":                                   LocationData("Bad Hair Day"),
