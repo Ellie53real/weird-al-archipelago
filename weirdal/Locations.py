@@ -85,7 +85,7 @@ LOCATION_TABLE: dict[str, LocationData] = {
     # Even Worse
     "Fat":                                              LocationData("Even Worse"),
     "Stuck in a Closet with Vanna White":                                        LocationData("Even Worse"),
-    "This Song's Just (Six Words Long)":                                  LocationData("Even Worse"),
+    "(This Song's Just) Six Words Long":                                  LocationData("Even Worse"),
     "You Make Me":                                         LocationData("Even Worse"),
     "I Think I'm a Clone Now":                                         LocationData("Even Worse"),
     "Lasagna":                                              LocationData("Even Worse"),
